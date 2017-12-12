@@ -41,6 +41,7 @@
         android:layout_marginTop="80dp"
         android:fontFamily="@font/montserrat"
         android:text="GO ALL IN"
+        android:textAlignment="textStart"
         android:textColor="@android:color/white"
         android:textSize="46sp"
         android:textStyle="bold"
